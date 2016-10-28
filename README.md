@@ -53,8 +53,9 @@ js文件肯定不能随便往后台某个文件夹一放就让前端去下载了
 </p>
 ## 3. JSPatch iOS端＋服务端完整Demo
 
-参考demo：[iOS端：JSPatchDemo](https://github.com/macosunity/JSPatchDemo)
-[服务端：JSPatchDemoServer](https://github.com/macosunity/JSPatchDemoServer)
+参考demo：
+  * [iOS端：JSPatchDemo](https://github.com/macosunity/JSPatchDemo)
+  * [服务端：JSPatchDemoServer](https://github.com/macosunity/JSPatchDemoServer)
 
 <p id='link4'>
 </p>
